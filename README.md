@@ -12,7 +12,7 @@ Random walk is a stock market theory that states that the past movement or direc
 
 
 
-![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689285/a3716564-b592-11e6-91f9-016f27e71dc1.png)
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689287/a37e3014-b592-11e6-9753-166240576cbb.PNG)
 
 
 1 Landing Page And Menu 1 In The Application
@@ -40,7 +40,9 @@ Random walk is a stock market theory that states that the past movement or direc
 
 3 Interpreting the Options And Using The Application
 
-![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689287/a37e3014-b592-11e6-9753-166240576cbb.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689285/a3716564-b592-11e6-91f9-016f27e71dc1.png)
+
+
 
 
 
