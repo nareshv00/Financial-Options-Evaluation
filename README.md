@@ -33,7 +33,7 @@ Random walk is a stock market theory that states that the past movement or direc
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689286/a379a97c-b592-11e6-8032-5d8b485082f8.png)
 
 
-2 Landing Page And Menu 2 In The Application
+2 Landing Page And Menu 2 In The Application, You can use the filtering options as well by selecting the selection menu tab.
 
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689288/a3811144-b592-11e6-907f-502e7df1b2cc.png)
 
