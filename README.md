@@ -10,7 +10,21 @@ Random walk is a stock market theory that states that the past movement or direc
 
 ##Using the Stock Option valuation Application ########################
 
+###Types of Option
+Call Option :  It provides the holder the right to purchase a stock at a specific price(strike price), for a certain period.
+Eg :Shares of Nike are selling for $130 on July 18, 2018 (recall the stock is at $117 today, 10/28/2016), and it will cost us $12 to buy an option today. 
 
+If on July 18, 2018, the price is $150, we would have $20-12=$8 of profit
+
+If on July 18, 2018, the price is $125, the option has zero value
+
+Puts are the opposite of Calls. If you buy a Put, it gives you the right to sell at a particular price.
+
+The ultimate goal of buying shares is to make money by buying stocks in companies you expect to do well.
+Our UI Application trying to predict which stock will rise or fall 
+
+Eg – To buy an call option for Facebook on 19, Jan 2018:
+ First we check the strike price, call option on Yahoo Finance website
 
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689287/a37e3014-b592-11e6-9753-166240576cbb.PNG)
 
