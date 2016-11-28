@@ -28,6 +28,11 @@ Eg – To buy an call option for Bank of America on 19, Jan 2018:
 
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/20690351/1ae3d14a-b598-11e6-978d-4686bf12c7f5.PNG)
 
+Inputting the selected option values into the application( Input the information fetched from Yahoo to UI application in the below way)
+
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20690616/ac62f0fa-b599-11e6-8486-1d774dc38f65.PNG)
+
+Results shows that there are chances of making six times profit on the call option we have invested in Banking sector
 
 ![alt tag](https://cloud.githubusercontent.com/assets/19517513/20690352/1aeda2f6-b598-11e6-9cd4-b15591dd61a4.PNG)
 
