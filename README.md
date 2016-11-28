@@ -12,8 +12,9 @@ Random walk is a stock market theory that states that the past movement or direc
 
 ###Put the below Rcode in r command line or R Studio to use this application ( You can also download and make changes to use your own options )
 
+```r
 runGitHub("Financial-Options-Evaluation", "nareshv00")
-
+```
 
 ###Types of Option
 Call Option :  It provides the holder the right to purchase a stock at a specific price(strike price), for a certain period.
