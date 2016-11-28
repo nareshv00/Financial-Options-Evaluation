@@ -10,7 +10,7 @@ Random walk is a stock market theory that states that the past movement or direc
 
 ##Using the Stock Option valuation Application ########################
 
-##Put this Rcode in r command line or R Studio
+###Put the below Rcode in r command line or R Studio to use this application ( You can also download and make changes to use your own options )
 
 runGitHub("Financial-Options-Evaluation", "nareshv00")
 
