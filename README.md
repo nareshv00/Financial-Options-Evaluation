@@ -7,3 +7,25 @@ Call Options: It provide the holder the right to purchase an underlying asset at
 Put options: It give the holder the right to sell an underlying asset at a specified price (the strike price). The seller (or writer) of the put option is obligated to buy the stock at the strike price. Put options can be exercised at any time before the option expires. Investors buy puts if they think the share price of the underlying stock will fall, or sell one if they think it will rise.
 
 Random walk is a stock market theory that states that the past movement or direction of the price of a stock or overall market cannot be used to predict its future movement. Originally examined by Maurice Kendall in 1953, the theory states that stock price fluctuations are independent of each other and have the same probability distribution, but that over a period of time, prices maintain an upward trend. In short, random walk says that stocks take a random and unpredictable path. The chance of a stock's future price going up is the same as it going down. A follower of random walk believes it is impossible to outperform the market without assuming additional risk.
+
+
+
+
+1 Landing Page And Menu 1 In The Application
+
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689286/a379a97c-b592-11e6-8032-5d8b485082f8.png)
+
+
+2 Landing Page And Menu 2 In The Application
+
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689288/a3811144-b592-11e6-907f-502e7df1b2cc.png)
+
+
+3 Interpreting the Options And Using The Application
+
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689287/a37e3014-b592-11e6-9753-166240576cbb.PNG)
+
+
+4 Using The Application for Stock Option Valuation
+
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689285/a3716564-b592-11e6-91f9-016f27e71dc1.png)
