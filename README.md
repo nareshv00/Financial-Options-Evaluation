@@ -23,11 +23,17 @@ Puts are the opposite of Calls. If you buy a Put, it gives you the right to sell
 The ultimate goal of buying shares is to make money by buying stocks in companies you expect to do well.
 Our UI Application trying to predict which stock will rise or fall 
 
-Eg – To buy an call option for Facebook on 19, Jan 2018:
+Eg – To buy an call option for Bank of America on 19, Jan 2018:
  First we check the strike price, call option on Yahoo Finance website
 
-![alt tag](https://cloud.githubusercontent.com/assets/19517513/20689287/a37e3014-b592-11e6-9753-166240576cbb.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20690351/1ae3d14a-b598-11e6-978d-4686bf12c7f5.PNG)
 
+
+![alt tag](https://cloud.githubusercontent.com/assets/19517513/20690352/1aeda2f6-b598-11e6-9cd4-b15591dd61a4.PNG)
+
+
+
+####Application and Functionality
 
 1 Landing Page And Menu 1 In The Application
   
