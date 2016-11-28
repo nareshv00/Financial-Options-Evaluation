@@ -10,6 +10,11 @@ Random walk is a stock market theory that states that the past movement or direc
 
 ##Using the Stock Option valuation Application ########################
 
+##Put this Rcode in r command line or R Studio
+
+runGitHub("Financial-Options-Evaluation", "nareshv00")
+
+
 ###Types of Option
 Call Option :  It provides the holder the right to purchase a stock at a specific price(strike price), for a certain period.
 Eg :Shares of Nike are selling for $130 on July 18, 2018 (recall the stock is at $117 today, 10/28/2016), and it will cost us $12 to buy an option today. 
